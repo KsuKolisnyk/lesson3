@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+}
+
+.subheading {
+  color: red;
+}
+
+#za-chasiv {
+  color: red;
+}
+
+p.text {
+  color: red;
+}
+
+.text.image {
+  color: red;
+}
+
+.paragraph,
+.block {
+  color: red;
+}
+
+.text p {
+  color: green;
+}
+
+.text .yellow {
+  color: yellow;
+}
+
+.text .yellow ~ p {
+  color: #ea00f3;
+}
